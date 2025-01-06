@@ -1,0 +1,11 @@
+Data Peserta Bootcamp Digital Skill - Golang Backend Development
+1. Nama: Imron Rosadi   
+2. Email: imronrosyadi97@gmail.com
+3. Sistem Operasi yang digunakan: Windows
+4. Akun Github: Imron-DE
+5. Akun Telegram: Imron Rosadi
+6. Role Pekerjaan (BE/FE/DEVOPS/MAHASISWA) : Process-Engineer
+7. Umur: 27 Tahun 
+8. Pernah menggunakan Go? : Belum
+9. Bahasa Pemrograman yg pernah dipelajari: Javascrift, PHP
+10. Pernah membuat REST API? : pernah dengan menggunakan Express JS
